@@ -17,7 +17,7 @@ public class StackRouter extends DuctRouter{
 
     public StackRouter(String name){
         super(name);
-        itemCapacity = 10;
+        itemCapacity = 0;
     }
 
     public class StackRouterBuild extends DuctRouterBuild{
