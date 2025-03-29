@@ -18,7 +18,7 @@ public class Router extends Block{
         underBullets = true;
         update = true;
         hasItems = true;
-        itemCapacity = 1;
+        itemCapacity = 0;
         group = BlockGroup.transportation;
         unloadable = false;
         noUpdateDisabled = true;
